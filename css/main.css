@@ -1,0 +1,47 @@
+h1 {
+  font-family: Lobster, Monospace;
+}
+
+body {
+  background-color: #9BC1CD;
+}
+
+.content {
+  background-color: #B9BDC1;
+  width: 50%;
+  border-radius: 20px;
+  padding-bottom: 10px;
+  color: #85005B
+}
+
+#author {
+  float: right;
+  font-size: 16px;  
+}
+
+#quote {
+  padding: 20px 0 20px;  
+}
+
+#text {
+  padding: 0 10px;
+  font: bold italic 24px serif;  
+}
+
+.buttons {
+  margin-top: 30px;  
+}
+
+#twitter {
+  color: #fff;
+  background-color: #337AB7;
+  float: left;
+}
+
+a#twitter:hover {  
+  background-color: #285E8E;  
+}
+
+#new-quote {
+  float: right;
+}
